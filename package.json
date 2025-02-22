@@ -1,0 +1,17 @@
+{
+  "name": "desafio_cognitiva_brasil",
+  "version": "1.0.0",
+  "description": "Projeto para comparar respostas de LLMs",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "cors": "^2.8.5",
+    "dictionary-pt": "^4.0.0",
+    "dotenv": "^16.4.7",
+    "groq-sdk": "^0.15.0"
+  }
+}
