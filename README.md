@@ -49,7 +49,7 @@ No terminal, execute:
 
 node index.js
 
-5Verificando as Respostas
+Verificando as Respostas
 
 Exemplo de Saída no Console
 
